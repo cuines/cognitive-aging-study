@@ -1,0 +1,11 @@
+participant_id,age,race,total_cognition_score,years_of_education,has_health_insurance
+1,72,White,85,12,1
+2,68,Black,78,10,0
+3,75,Hispanic,80,8,1
+4,81,White,90,16,1
+5,65,Black,70,9,1
+6,79,Other,75,11,0
+7,71,White,88,14,1
+8,69,Hispanic,82,7,1
+9,74,Black,76,10,0
+10,77,White,95,18,1
